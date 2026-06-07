@@ -1,4 +1,4 @@
-<img width="1892" height="930" alt="image" src="https://github.com/user-attachments/assets/95e2815d-184d-47ce-b95e-b5171aedb12c" /># Network Anomaly Detection Dashboard
+# Network Anomaly Detection Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red)
