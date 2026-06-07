@@ -1,0 +1,21 @@
+# Network Anomaly Detection Dashboard — Python dependencies
+# Install with:  pip install -r requirements.txt
+#
+# Versions are pinned to the minor release for reproducibility but allow
+# patch updates (e.g. 1.5.x) so security fixes are picked up automatically.
+
+# --- Web framework ---
+streamlit>=1.35.0,<2.0
+
+# --- Machine learning ---
+scikit-learn>=1.5.0,<2.0       # IsolationForest lives here
+
+# --- Data manipulation ---
+pandas>=2.2.0,<3.0
+numpy>=1.26.0,<2.0
+
+# --- Visualisation ---
+plotly>=5.22.0,<6.0
+
+# --- Utilities (usually installed with the above but pinned for CI) ---
+python-dateutil>=2.9.0
