@@ -1,4 +1,4 @@
-# Network Anomaly Detection Dashboard
+<img width="1892" height="930" alt="image" src="https://github.com/user-attachments/assets/95e2815d-184d-47ce-b95e-b5171aedb12c" /># Network Anomaly Detection Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red)
@@ -16,8 +16,13 @@ No labelled training data required. No static thresholds to maintain. The model 
 ---
 
 ## Demo
+<img width="1901" height="971" alt="ss1" src="https://github.com/user-attachments/assets/99d8e71a-bb8f-4a46-8eab-06dc49d2d486" />
+<img width="1872" height="897" alt="ss2" src="https://github.com/user-attachments/assets/70fdfb3b-9397-4820-8375-9ee9d5d928d2" />
+<img width="1866" height="845" alt="ss3" src="https://github.com/user-attachments/assets/0cf967a5-b9fa-4322-a3f4-5592d9675f9a" />
+<img width="1892" height="930" alt="ss4" src="https://github.com/user-attachments/assets/f95157e2-f3da-49f8-8f6d-6124e7b1700d" />
 
-![Dashboard screenshot](docs/screenshot.png)
+
+
 
 > *The red markers show anomalies detected by Isolation Forest. Hover over any marker to see a plain-English explanation of why the model flagged it.*
 
